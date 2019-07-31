@@ -1,0 +1,167 @@
+!将下列规则添加到广告过滤软件或插件的自定义规则列表即可。
+
+[Adblock Plus 2.0]
+! Title: QiuQuan's AdRules
+! Expires: 12 hours
+! Version: 20190724
+! Last Modified: 2019年07月24日 14:35
+! Homepage: http://www.qiuquan.cc/
+
+
+!即可网盘广告拦截规则
+jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:nth-child(6)
+jkpan.cc###fl_dir_box > DIV.file_box:first-child > DIV.fb_l.f14.txtgray:nth-child(2) > DIV.file_item > LI:last-child
+jkpan.cc###fl_dir_box > DIV:nth-child(5) > DIV.clear:nth-child(8)
+jkpan.cc###fl_dir_box > DIV:nth-child(10) > LI.f14.txtgray
+jkpan.cc###fl_dir_box > DIV.hr:nth-child(9)
+jkpan.cc###r2 > DIV.clear:last-child
+jkpan.cc##DIV.foot_box:nth-child(12)
+jkpan.cc###fl_dir_box > DIV.file_item:nth-child(3) > DIV
+jkpan.cc###fl_dir_box > DIV:nth-child(5) > DIV.clear:last-child
+jkpan.cc###fl_dir_box > DIV:nth-child(8) > LI.f14.txtgray
+jkpan.cc###fl_dir_box > DIV:nth-child(3) > DIV.clear:last-child
+jkpan.cc###fl_dir_box > DIV.hr:nth-child(7)
+jkpan.cc##DIV.foot_box:nth-child(15)
+jkpan.cc##DIV.layout_box.box_shadow:nth-child(4) > DIV.l:first-child > DIV.file_item.f14.box_shadow:last-child
+jkpan.cc###dl_box > DIV.pd5:last-child
+jkpan.cc###r1
+jkpan.cc##DIV.foot_box:nth-child(10)
+jkpan.cc##DIV.foot_box:nth-child(21)
+jkpan.cc###aswift_1
+jkpan.cc###aswift_0
+jkpan.cc###aswift_1_anchor
+jkpan.cc###aswift_1_expand
+jkpan.cc###container > DIV:nth-child(2)
+jkpan.cc###container > DIV:last-child > CENTER
+jkpan.cc###nfooter
+jkpan.cc###container > DIV:last-child
+jkpan.cc##DIV.foot_box:nth-child(7)
+jkpan.cc##DIV.foot_box:nth-child(19)
+jkpan.cc###fl_dir_box > DIV.file_box:first-child > INS.adsbygoogle:nth-child(5)
+
+!分享盘广告拦截规则
+fxpan.com##DIV:nth-child(4) > DIV.page-footer:nth-child(13) > FOOTER.footer-nav:first-child
+fxpan.com##DIV:nth-child(4)
+fxpan.com###fl_dir_box > DIV.file_box > DIV:nth-child(2) > DIV.file_item.file_desc:first-child
+fxpan.com###fl_dir_box > DIV.file_box > DIV:nth-child(9) > LI.f14.txtgray
+fxpan.com###fl_dir_box > DIV.file_box > DIV.hr:nth-child(8)
+fxpan.com###bdshare > IMG:first-child
+fxpan.com###bdshare > A.shareCount:last-child
+fxpan.com##DIV.foot_box:nth-child(7)
+fxpan.com##DIV.page-wrapper:first-child > DIV.page-navbar:first-child > NAV.navbar > DIV.container > DIV.navbar-container:last-child > UL.nav.navbar-nav.navbar-main:first-child > LI:nth-child(4) > A
+fxpan.com##DIV.page-wrapper:first-child > DIV.page-navbar:first-child > NAV.navbar > DIV.container > DIV.navbar-container:last-child > UL.nav.navbar-nav.navbar-main:first-child > LI:nth-child(5) > A
+fxpan.com##DIV.page-wrapper:first-child > DIV.page-navbar:first-child > NAV.navbar > DIV.container > DIV.navbar-container:last-child > UL.nav.navbar-nav.navbar-main:first-child > LI:last-child > A
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:nth-child(5)
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:nth-child(3) > DIV.file_item.f14.box_shadow:last-child
+fxpan.com###dl_box
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:last-child
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:first-child > DIV:last-child
+fxpan.com###b1
+fxpan.com###addr_list > DIV.titdown
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:first-child > H1:first-child
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child > DIV:first-child
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV:first-child
+fxpan.com##DIV.layout_box.box_shadow:nth-child(2) > DIV.index213_box:last-child
+fxpan.com###container > DIV:nth-child(2) > DIV > DIV:first-child
+fxpan.com###container > DIV:nth-child(2) > DIV > DIV:last-child
+fxpan.com##DIV.page-wrapper:first-child > DIV.layout_box.box_shadow:nth-child(15) > DIV:first-child > DIV
+fxpan.com##DIV.page-wrapper:first-child > DIV.layout_box.box_shadow:nth-child(15) > DIV:first-child
+fxpan.com###f_tips
+fxpan.com##DIV.layout_box.box_shadow:nth-child(3) > DIV:nth-child(3) > DIV.file_item.f14.box_shadow:last-child > TABLE.td_line > TBODY > TR:first-child > TH.color4
+fxpan.com##DIV.layout_box.box_shadow:nth-child(3) > DIV:nth-child(3) > DIV.file_item.f14.box_shadow:last-child
+fxpan.com##DIV.layout_box.box_shadow:nth-child(3) > DIV:nth-child(5)
+fxpan.com###b1 > INS.adsbygoogle:nth-child(5)
+fxpan.com##DIV.foot_box:nth-child(5)
+fxpan.com###container > DIV:nth-child(2)
+
+!乱斗网盘拦截规则
+66disk.com###aswift_0
+66disk.com###aswift_0_anchor
+66disk.com###aswift_0_expand
+66disk.com##DIV.ad970:nth-child(3) > INS.adsbygoogle:nth-child(3)
+66disk.com##DIV.content:nth-child(4) > DIV.r336:last-child
+66disk.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV.ad468:nth-child(4)
+66disk.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.vip1:nth-child(2)
+66disk.com##DIV.content:nth-child(4) > DIV.l624:first-child > UL:nth-child(10)
+66disk.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV.ad468:last-child
+66disk.com##DIV.ad970:nth-child(4) > A > IMG
+66disk.com##DIV.content:nth-child(5) > DIV.r336:last-child
+66disk.com##DIV.content:nth-child(5) > DIV.l624:first-child > SPAN:nth-child(2) > DIV.ad468:last-child
+66disk.com##DIV.content:nth-child(5) > DIV.l624:first-child > DIV.downqu:nth-child(4)
+66disk.com##DIV.ad970:nth-child(7) > INS.adsbygoogle:nth-child(3)
+66disk.com##FOOTER.group:nth-child(9)
+66disk.com###down_link > A:last-child
+66disk.com##FOOTER.group:nth-child(7)
+66disk.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free4:nth-child(2)
+66disk.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free3:first-child > IMG:nth-child(2)
+66disk.com###free6
+66disk.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free3:first-child > DIV:first-child
+66disk.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(6) > DIV.free2:first-child > DIV.free3:first-child > DIV:last-child
+66disk.com##DIV.header:nth-child(2) > DIV.head > UL:nth-child(2)
+66disk.com##DIV.header:nth-child(2) > DIV.head > A:first-child > DIV.logo
+66disk.com##DIV.ad970:nth-child(3) > A > IMG
+66disk.com##DIV.content:nth-child(4) > DIV.l624:first-child > DIV:nth-child(5) > DIV.vip1:nth-child(2)
+66disk.com##DIV.content:nth-child(4) > DIV.l624:first-child > UL:last-child
+66disk.com###wait_div
+
+!淘盘广告拦截规则
+!跳过60秒倒计时
+|http://www.topfilex.com/file/*.html$s@var secs = *;@var secs = 0;@
+topfilex.com###footer
+topfilex.com###bdshare
+topfilex.com##DIV.foot_box:nth-child(7)
+topfilex.com##DIV.foot_info:nth-child(10)
+topfilex.com##DIV.head_box:nth-child(4)
+topfilex.com###main-content > DIV:nth-child(4)
+topfilex.com###page-content > DIV.bottom-hint:last-child
+topfilex.com###main-content > DIV.bottom-hint:last-child
+topfilex.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > A:first-child > IMG
+topfilex.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(2)
+topfilex.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:nth-child(6)
+topfilex.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child
+topfilex.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+topfilex.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+topfilex.com###page-content > DIV.row-fluid:last-child > DIV:last-child > DIV:last-child
+topfilex.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+topfilex.com###page-content > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+topfilex.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV:last-child
+topfilex.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV:first-child > A:first-child > IMG
+topfilex.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(2)
+topfilex.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+topfilex.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:last-child
+topfilex.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span9:first-child > DIV.header_content:last-child
+topfilex.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid > DIV.span9:first-child > DIV.header_content:nth-child(6)
+topfilex.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-body:last-child > DIV.widget-body-inner > DIV.widget-main
+topfilex.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:nth-child(4) > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+topfilex.com###page-content > DIV.page-header.position-relative:first-child > DIV.row-fluid:last-child > DIV.downpage_l:first-child > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+topfilex.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(2)
+topfilex.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+topfilex.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child > H4.lighter.clear:last-child
+topfilex.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child > H4.lighter.clear:nth-child(3)
+topfilex.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child > H4.lighter.clear:nth-child(2)
+topfilex.com###main-content > DIV.downpage_l:nth-child(3) > DIV.row-fluid:first-child > DIV.widget-box.transparent > DIV.widget-header.widget-header-flat:first-child
+topfilex.com###main-content > DIV.downpage_l:last-child > DIV:nth-child(2)
+topfilex.com###main-content > DIV.downpage_l:last-child > DIV.bottom-hint:last-child
+topfilex.com###main-content > DIV.downpage_l:last-child > DIV.row-fluid:first-child > DIV.row-fluid:nth-child(2) > TABLE.table.table-bordered.table-striped
+topfilex.com###main-content > DIV.downpage_l:last-child > DIV.row-fluid:first-child > DIV.row-fluid:nth-child(3) > A.btn.btn-danger.btn-block
+
+
+
+!以下屏蔽导航广告
+
+!搜狗导航
+123.sogou.com##DIV.leftbar:nth-child(6) > DIV.container:first-child
+123.sogou.com##DIV.leftbar:nth-child(6) > A.arrows.ct:last-child
+123.sogou.com##DIV.leftbar:nth-child(6)
+123.sogou.com###AD_1
+123.sogou.com###AD_9 > A:last-child > IMG
+123.sogou.com##DIV.pos-navbar:nth-child(5) > DIV.list:last-child > UL.cf
+123.sogou.com###AD_2 > A > IMG
+123.sogou.com##DIV.m-body:nth-child(3) > DIV.wp:nth-child(6) > DIV.ads.ads9.cf
+123.sogou.com###emailLogin > DIV.hd-slider:nth-child(3) > DIV.slider-container
+123.sogou.com##DIV.m-body:nth-child(3) > DIV.wp:nth-child(3) > DIV.m-search.m-search-cs.m.m-search-simple > DIV.hot-wd:nth-child(2) > UL.row.row-1.cf:first-child
+123.sogou.com##DIV.m-body:nth-child(3) > DIV.wp:nth-child(5) > DIV.ads.ads9.cf
+123.sogou.com##DIV.m-body:nth-child(3) > DIV.wp.cf:nth-child(7) > DIV.sidebar:first-child > DIV.m-3.m:last-child > DIV.row.m-3-3:nth-child(3)
+123.sogou.com##DIV.m-body:nth-child(4) > DIV.wp:nth-child(3) > DIV.m-search.m-search-cs.m.m-search-simple > DIV.hot-wd:nth-child(2) > UL.row.row-1.cf:first-child
+123.sogou.com##DIV.m-body:nth-child(4) > DIV.wp.cf:nth-child(8) > DIV.sidebar:first-child > DIV.m-3.m:last-child > DIV.row.m-3-3:nth-child(3)
+123.sogou.com##DIV.m-body:nth-child(4) > DIV.tmallskin:first-child
